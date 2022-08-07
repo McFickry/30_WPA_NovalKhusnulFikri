@@ -1,11 +1,15 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-// import './assets/css/owl.carousel.min.css'
-import './assets/css/owl.theme.default.min.css'
-import './assets/css/style.css'
+// import Swiffy Slider JS
+import { swiffyslider } from 'swiffy-slider'
+window.swiffyslider = swiffyslider;
 
-import './assets/js/owl.carousel.min.js'
-import './assets/js/main.js'
+window.addEventListener("load", () => {
+    window.swiffyslider.init();
+});
+
+// import Swiffy Slider CSS
+import "swiffy-slider/css"
 
 createApp(App).mount('#app')

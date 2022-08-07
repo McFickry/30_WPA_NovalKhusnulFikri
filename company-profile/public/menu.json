@@ -1,0 +1,42 @@
+[
+    {
+        "img":"kopi_1.png",
+        "nama":"Dark Coffee",
+        "harga":160
+    },
+    {
+        "img":"kopi_2.png",
+        "nama":"Cold Coffee",
+        "harga":160
+    },
+    {
+        "img":"kopi_3.png",
+        "nama":"Hot Coffee",
+        "harga":160
+    },
+    {
+        "img":"kopi_1.png",
+        "nama":"Super Dark Coffee",
+        "harga":160
+    },
+    {
+        "img":"kopi_2.png",
+        "nama":"Caramel Machiatto",
+        "harga":160
+    },
+    {
+        "img":"kopi_3.png",
+        "nama":"Cappucino",
+        "harga":160
+    },
+    {
+        "img":"kopi_1.png",
+        "nama":"Americano",
+        "harga":160
+    },
+    {
+        "img":"kopi_2.png",
+        "nama":"Coffee Latte",
+        "harga":160
+    }
+]
